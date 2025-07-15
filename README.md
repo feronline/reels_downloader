@@ -20,6 +20,7 @@ Bu uygulama, Instagram, YouTube ve TikTok gibi platformlardan video indirmek iç
 - Bu araç, kullanıcıya ait hesaplardan indirilen **kamuya açık içerikler** içindir.
 - Telif hakkı içeren videoların izinsiz olarak indirilmesi **kullanıcının sorumluluğundadır.**
 - Bu uygulama, Instagram, YouTube veya TikTok ile **bağlantılı değildir**.
+- Bu nedenle projemdeki bir çok dosyayı ve setup'ı dahil etmedim repository'e.
 
 ## 🛠️ Kullanılan Teknolojiler
 
