@@ -34,9 +34,3 @@ Bu uygulama, Instagram, YouTube ve TikTok gibi platformlardan video indirmek iç
 | Arayüz | Önizleme |
 |-------|----------|
 | ![Ekran Görüntüsü](screenshot.png) | Video bilgileri ve indirme seçenekleri gösterilir. |
-
-## 🧑‍💻 Kurulum
-
-1. Bu repoyu klonla:
-```bash
-git clone https://github.com/kullaniciadi/reels_downloader.git
